@@ -38,10 +38,11 @@
   .fullscreen-bg__video {
     display: none;
   }
-  
+}
+
 #bottom {
         position: absolute;
         bottom: 0;
-        right: 10;
+        right: 0;
       }
 }
