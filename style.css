@@ -1,3 +1,9 @@
+<style>
+audio::-webkit-media-controls-play-button {
+  background-color: rgba(230, 230, 255, 1);
+}
+</style>
+
 .fullscreen-bg {
   position: fixed;
   top: 0;
