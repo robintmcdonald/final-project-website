@@ -30,7 +30,7 @@
   }
 }
 
-@media (max-width: 10000px) {
+@media (max-width: 400px) {
   .fullscreen-bg {
     background: url('home1.jpg') center center / cover no-repeat;
   }
