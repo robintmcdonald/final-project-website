@@ -19,7 +19,7 @@
 @media (min-aspect-ratio: 16/9) {
   .fullscreen-bg__video {
     height: 300%;
-    top: 100%;
+    top: -100%;
   }
 }
 
@@ -30,7 +30,7 @@
   }
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 1000px) {
   .fullscreen-bg {
     background: url('home1.jpg') center center / cover no-repeat;
   }
@@ -43,6 +43,6 @@
 #bottom {
         position: absolute;
         bottom: 0;
-        right: 0;
+        right: 20;
       }
 }
