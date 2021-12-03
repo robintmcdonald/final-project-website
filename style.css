@@ -26,11 +26,11 @@
 @media (max-aspect-ratio: 16/9) {
   .fullscreen-bg__video {
     width: 300%;
-    left: -130%;
+    left: -105%;
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 2000px) {
   .fullscreen-bg {
     background: url('home1.jpg') center center / cover no-repeat;
   }
