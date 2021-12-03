@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang"en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Tsite</title>
+<link rel="stylesheet" href="style.css">
+  
+</head>
+  <body>
+  merge
+  <header>
+<a href="illusion.html">
+<img src="p2i.jpg" alt="???" style="width:42px;height:42px;">
+</a>
+      <a href="illusion.html">
+<img src="p2i.jpg" alt="???" style="width:42px;height:42px;">
+</a>
+      <a href="illusion.html">
+<img src="p2i.jpg" alt="???" style="width:42px;height:42px;">
+</a>
+      <a href="illusion.html">
+<img src="p2i.jpg" alt="???" style="width:42px;height:42px;">
+</a>
+  </header>
+      
+      
+    <div id="bottom"><audio controls volume loop>
+  <source src="homesound.mp3" type="audio/mp3">
+</audio></div>
+ 
+
+<div class="fullscreen-bg">
+    <video muted autoplay loop poster="home1.jpg" class="fullscreen-bg__video">
+       
+        <source src="homesloop.mp4" type="video/mp4">
+    
+    </video>
+</div>
+  
+   
+    
+
+
+</body>
+</html>
