@@ -28,14 +28,14 @@ video.playbackRate=playbackspeed
 #bottom {
         position: absolute;
         bottom: 0;
-        right: 0;
+        left: 0;
       }
 }
 
 #lbottom {
         position: absolute;
         bottom: 0;
-        left: 0;
+        right: 0;
       }
 }
 audio::-webkit-media-controls-panel {
