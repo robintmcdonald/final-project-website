@@ -22,7 +22,7 @@
 	    transform: translate(-50%, -50%);
 }
 
-
+video.playbackRate = 1.5;
 vid.playbackRate = 0.3;
 }
 #bottom {
