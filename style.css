@@ -34,8 +34,4 @@ video.playbackRate=playbackspeed
         bottom: 0;
         right: 0;
       }
-}
-audio::-webkit-media-controls-panel {
-  background-color: #56AEFF;
-}
 
