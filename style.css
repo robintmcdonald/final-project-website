@@ -21,7 +21,9 @@
         -ms-transform: translate(-50%, -50%);
 	    transform: translate(-50%, -50%);
 }
+HTMLMediaElement.playbackRate {
 video.playbackRate=playbackspeed
+}
 }
 #bottom {
         position: absolute;
