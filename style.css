@@ -7,6 +7,7 @@
     overflow: hidden;
     z-index: -100;
 	video.playbackRate=playbackspeed
+	playbackRate: 0.5;
 }
 
 .fullscreen-bg__video {
@@ -24,13 +25,8 @@
 }
 HTMLMediaElement.playbackRate {
 video.playbackRate=playbackspeed
-}
-}
-#bottom {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-      }
+	
+	
 }
 
 #lbottom {
