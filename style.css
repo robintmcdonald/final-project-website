@@ -6,6 +6,7 @@
     left: 0;
     overflow: hidden;
     z-index: -100;
+	video.playbackRate=playbackspeed
 }
 
 .fullscreen-bg__video {
